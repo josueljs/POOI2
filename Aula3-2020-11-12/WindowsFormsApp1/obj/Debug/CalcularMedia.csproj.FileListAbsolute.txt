@@ -1,0 +1,20 @@
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\obj\Debug\CalcularMedia.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMedia.resources
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\obj\Debug\CalcularMedia.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\obj\Debug\CalcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aluno\Downloads\2019-08-17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\obj\Debug\CalcularMedia.csprojAssemblyReference.cache
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMedia.resources
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\obj\Debug\CalcularMedia.csproj.GenerateResource.cache
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\obj\Debug\CalcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Josuel Santos\Documents\POOI2\Aula3-2020-11-12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

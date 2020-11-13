@@ -1,0 +1,10 @@
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\bin\Debug\Desafio2.exe.config
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\bin\Debug\Desafio2.exe
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\bin\Debug\Desafio2.pdb
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\obj\Debug\Desafio2.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\obj\Debug\Desafio2.FormNadador.resources
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\obj\Debug\Desafio2.Properties.Resources.resources
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\obj\Debug\Desafio2.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\obj\Debug\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\obj\Debug\Desafio2.exe
+C:\Users\aluno\Downloads\2019-08-10\Desafio2\obj\Debug\Desafio2.pdb

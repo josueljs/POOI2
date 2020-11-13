@@ -1,0 +1,10 @@
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\bin\Debug\Desafio3.exe.config
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\bin\Debug\Desafio3.exe
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\bin\Debug\Desafio3.pdb
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\obj\Debug\Desafio3.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\obj\Debug\Desafio3.FormIMC.resources
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\obj\Debug\Desafio3.Properties.Resources.resources
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\obj\Debug\Desafio3.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\obj\Debug\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\obj\Debug\Desafio3.exe
+C:\Users\aluno\Downloads\2019-08-10\Desafio3\obj\Debug\Desafio3.pdb
