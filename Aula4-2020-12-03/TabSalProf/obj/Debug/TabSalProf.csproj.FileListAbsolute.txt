@@ -1,0 +1,10 @@
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\bin\Debug\TabSalProf.exe.config
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\bin\Debug\TabSalProf.exe
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\bin\Debug\TabSalProf.pdb
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\obj\Debug\TabSalProf.csprojAssemblyReference.cache
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\obj\Debug\TabSalProf.FormCalculoSalario.resources
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\obj\Debug\TabSalProf.Properties.Resources.resources
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\obj\Debug\TabSalProf.csproj.GenerateResource.cache
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\obj\Debug\TabSalProf.csproj.CoreCompileInputs.cache
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\obj\Debug\TabSalProf.exe
+C:\Users\josue\Google Drive (josuel.santos@aluno.ifsp.edu.br)\ADS271\POO\2019-08-24\TabSalProf\obj\Debug\TabSalProf.pdb
